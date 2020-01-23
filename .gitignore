@@ -1,0 +1,6 @@
+credentials
+./reading_list/*.pdf
+./notes
+*.log
+*.pyc
+./__pycache__
